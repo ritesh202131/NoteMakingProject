@@ -1,3 +1,5 @@
+//This is the javascript file
+
 $(function(){
     //define variables
     var activeNote = 0;
